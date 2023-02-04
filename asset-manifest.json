@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ReactCitzenPages/static/css/main.1f352eb4.css",
+    "main.js": "/ReactCitzenPages/static/js/main.3f423a33.js",
+    "static/js/787.0e31295a.chunk.js": "/ReactCitzenPages/static/js/787.0e31295a.chunk.js",
+    "static/media/logo.svg": "/ReactCitzenPages/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ReactCitzenPages/index.html",
+    "main.1f352eb4.css.map": "/ReactCitzenPages/static/css/main.1f352eb4.css.map",
+    "main.3f423a33.js.map": "/ReactCitzenPages/static/js/main.3f423a33.js.map",
+    "787.0e31295a.chunk.js.map": "/ReactCitzenPages/static/js/787.0e31295a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f352eb4.css",
+    "static/js/main.3f423a33.js"
+  ]
+}
